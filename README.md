@@ -1,4 +1,4 @@
 # Flappy-Bird
-A game very known
+A popular game.
 
 To run the game just run test.py
